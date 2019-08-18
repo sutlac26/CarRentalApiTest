@@ -34,7 +34,7 @@ Open a command window and run:
 mvn test
 This runs Cucumber features using Cucumber's runner. The @RunWith(Cucumber.class) annotation on the CukeRunner class tells JUnit/TestNG to kick off Cucumber.
 
-![Maven Clean install]
+[Maven Clean install]
 
 (https://github.com/sutlac26/CarRentalApiTest/blob/master/Screen%20Shot%202019-08-18%20at%2012.36.34%20PM.png)
 
