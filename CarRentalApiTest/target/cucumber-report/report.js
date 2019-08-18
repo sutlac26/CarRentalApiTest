@@ -10,7 +10,7 @@ formatter.scenarioOutline({
   "keyword": "Scenario Outline",
   "tags": [
     {
-      "name": "@test2"
+      "name": "@test26"
     }
   ]
 });
@@ -55,7 +55,7 @@ formatter.scenario({
   "keyword": "Scenario Outline",
   "tags": [
     {
-      "name": "@test2"
+      "name": "@test26"
     }
   ]
 });
@@ -112,7 +112,7 @@ formatter.feature({
   "keyword": "Feature",
   "tags": [
     {
-      "name": "@test2"
+      "name": "@test26"
     }
   ]
 });
@@ -122,7 +122,7 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "name": "@test2"
+      "name": "@test26"
     }
   ]
 });
@@ -168,7 +168,7 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "name": "@test2"
+      "name": "@test26"
     }
   ]
 });
@@ -215,7 +215,7 @@ formatter.feature({
   "keyword": "Feature",
   "tags": [
     {
-      "name": "@test2"
+      "name": "@test26"
     }
   ]
 });
@@ -225,7 +225,7 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "name": "@test2"
+      "name": "@test26"
     }
   ]
 });
@@ -271,7 +271,7 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "name": "@test2"
+      "name": "@test26"
     }
   ]
 });

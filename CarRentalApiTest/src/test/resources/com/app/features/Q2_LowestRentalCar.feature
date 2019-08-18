@@ -1,7 +1,7 @@
 #Question 2: Return all cars which have the lowest per day rental cost for both cases:
 #				a. Price only
 #				b. Price after discounts
-@test2
+@test26
 Feature: Lowest Rental Car
 
   Scenario: As a user I want to see which car has lowest price

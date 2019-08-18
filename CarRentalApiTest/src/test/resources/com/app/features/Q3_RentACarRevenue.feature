@@ -1,6 +1,6 @@
 #Question 3: Find the highest revenue generating car. year over year maintenance cost + depreciation is the total expense per car for the full year for the rental car company.
 #			The objective is to find those cars that produced the highest profit in the last year
-@test2
+@test26
 Feature: Highest Profit Car
 
   Scenario: As a user I want to see which car has a biggest revenue per year to date
