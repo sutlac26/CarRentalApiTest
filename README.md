@@ -26,7 +26,10 @@ How to host local API db.json
 
 https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d
 
-![db.json local Host] (https://github.com/sutlac26/CarRentalApiTest/blob/master/Screen%20Shot%202019-08-18%20at%2012.37.21%20PM.png)
+
+![Hosting Local Json](https://github.com/sutlac26/CarRentalApiTest/blob/master/Screen%20Shot%202019-08-18%20at%2012.37.21%20PM.png)
+
+
 
 
 ## Running the tests
