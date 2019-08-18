@@ -37,7 +37,7 @@ This runs Cucumber features using Cucumber's runner. The @RunWith(Cucumber.class
 
 ## Authors
 
-* **Talha ERTURK** - *Initial work* - 
+* **Talha ERTURK** 
 
 ## License
 
